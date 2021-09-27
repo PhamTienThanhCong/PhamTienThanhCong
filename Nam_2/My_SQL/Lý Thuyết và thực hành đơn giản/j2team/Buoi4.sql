@@ -53,14 +53,11 @@ where EXTRACT(month from tuoi) = EXTRACT(month from curtime())
 delete from nhan_vien
 where ((EXTRACT(month from tuoi) = EXTRACT(month from curtime())) and (luong - 100 <50) ) or (luong<50)
 
-select sum(luong) tong_luong_IT,sum(luong)/count(*) trung_binh from nhan_vien
-where nghe_nghiep = 'IT'
+select nghe_nghiep, sum(luong) as 'tong luong' from nhan_vien
+group by nghe_nghiep
 
-select sum(luong) tong_luong_ke_toan,avg(luong)trung_binh from nhan_vien
-where nghe_nghiep = N'kế toán'
-
-select sum(luong) tong_luong_cac_sep,avg(luong) trung_binh from nhan_vien
-where nghe_nghiep = N'doanh nhân thành đạt'
+select nghe_nghiep,sum(luong)/count(*) 'trung binh' from nhan_vien
+group by nghe_nghiep
 
 select * from nhan_vien
 where ngay_vao_lam = curdate()
