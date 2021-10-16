@@ -8,13 +8,14 @@ inner join offices on employees.officeCode = offices.officeCode;
 
 -- 2. Đưa ra thông tin về tên khách hàng và tên các sản phẩm họ đã mua.
 
-SELECT customerName,productName from customers C
-inner join orders O on C.customerNumber = O.customerNumber
-INNER JOIN orderdetails OD on O.orderNumber = OD.orderNumber
-inner join products P on OD.productCode= P.productCode
-group by customerName desc;
--- 3. Đưa ra thông tin về các mặt hàng chưa có ai đặt mua.
+select * from customers;
+select concat_ws(' ',customerName,contactLastName) as 'full name',products.productName from customers
+inner join orders on customers.customerNumber = orders.customerNumber
+inner join orderdetails on orders.orderNumber = orderdetails.orderNumber
+inner join products on orderdetails.productCode = products.productCode;
 
+	
+-- 3. Đưa ra thông tin về các mặt hàng chưa có ai đặt mua.
 select * from products
 where productCode  not in(select productCode from orderdetails);
 
@@ -26,13 +27,6 @@ where year(orderDate) =2005 and month(orderDate)
 group by orderDate;
 
 -- 5. Đưa ra thông tin về các dòng sản phẩm và số lượng sản phẩm của dòng sản phẩm đó. Sắp xếp theo thứ tự số lượng giảm dần.
-SELECT productLine FROM  products;
-order by productLine asc
-inner join products on productlines.productLine  = products.productLine
-
-
-
-
-
-
-
+select products.productline,productlines.textDescription,sum(quantityInStock) from products
+inner join productlines on  products.productLine = productlines.productLine
+group by  productline DESC
