@@ -1,0 +1,1 @@
+- Mở file "index.html" bằng trình duyệt web để dử dụng 

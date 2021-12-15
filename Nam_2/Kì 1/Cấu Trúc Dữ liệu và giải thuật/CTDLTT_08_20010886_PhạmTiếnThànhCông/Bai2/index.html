@@ -1,0 +1,153 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="public/style/app.css">
+  <link rel="stylesheet" href="public/style/footer.css">
+  <link rel="shortcut icon" href="public/images/phenikaa-icon.png">
+  <link rel="stylesheet" href="outside/domarrow.css">
+  <title>Heap Sort</title>
+</head>
+
+<body>
+  <!-- //header -->
+  <div id="header">
+    <div class="text-header">Mô Phỏng Giải Thuật Heap Sort</div>
+  </div>
+  <!-- header -->
+
+  <!-- các chức năng của chương trình -->
+  <div class="main-function-1">
+    <div class="main-function-input-1">
+      <label class="mobie-responsive lableInputValue" for="inputValue">- Nhập mảng:</label>
+      <input id="inputValue" placeholder="Nhập dãy số bất kì. Các số cách nhau bởi dấu ',' "></input>
+      <button class="button-39 botton-create" role="button" onclick=getValueFromInput()>Choose value</button>
+      <button class="button-39 reset" role="button" onclick=resetAll()>Reset value</button>
+    </div>
+  </div>
+  <div class="main-function-2">
+    <div class="main-function-input-2">
+      <div class="mobie-responsive btn-group">- Lựa chọn thao tác:</div>
+      <button style="margin-left: 40px;" class="button-39 botton-heapsort" role="button" onclick=xapXep()>Xắp Xếp
+        Tăng</button>
+      <button style="margin-left: 20px;" class="button-39 botton-heapsort" role="button" onclick=xapXepDown()>Xắp xếp
+        Giảm</button>
+      <button style="margin-left: 20px;" class="button-39 botton-heapsort" role="button" onclick=vunDongTang()>Vun Đống
+        Tăng</button>
+      <button style="margin-left: 20px;" class="button-39 botton-heapsort" role="button" onclick=vunDongGiam()>Vun Đống
+        Giảm</button>
+      <button  style="margin-left: 98px;" id="check" class="button-39 botton-create" role="button" onclick=ramdomValue()>Ramdom 30 value</button>
+    </div>
+  </div>
+  <div style="margin-bottom: -20px;" class="main-function-2">
+    <div class="main-function-input-2">
+      <div class="mobie-responsive btn-group">- Giải thích: </div>
+      <div class="btn-group" id="TextComment"></div>
+    </div>
+  </div>
+  <!-- các chức năng của chương trình -->
+
+  <!-- Chương trình minh họa -->
+  <div id="mainShow">
+    <div class="all-notes">
+      <div class="note">
+        <div class="note-img"></div>
+        <div class="note-content"> Giá trị các node cần xắp xếp</div>
+      </div>
+      <div class="note">
+        <div class="note-img" style="background-color: rgb(0, 230, 138);"></div>
+        <div class="note-content">Giá trị node cha</div>
+      </div>
+      <div class="note">
+        <div class="note-img" style="background-color: rgb(255, 77, 77)"></div>
+        <div class="note-content"> Giá trị node con thay thế node cha</div>
+      </div>
+      <div class="note">
+        <div class="note-img" style="background-color: yellow;"></div>
+        <div class="note-content"> Giá trị đã được xắp xếp</div>
+      </div>
+    </div>
+    <div id="program">Chương trình Heapsort: </div>
+    <div id="mainShowValue"></div>
+  </div>
+  <!-- Chương trình minh họa -->
+
+  <!-- tăng giảm nhanh châm của chương trình -->
+
+  <div class="botton-player-center">
+    <button onclick=stopShow() id="stop-start-range">
+      <svg width="24" height="24" viewBox="0 0 24 24" style="fill: rgba(0, 0, 0, 1);transform: msFilter"><path id = "icon" d="M7 7h10v10H7z"></path></svg>
+    </button>
+
+    <input type="range" id="range" name="volume" min="0" max="1000">
+
+    <div class="input-range">
+      <svg class="timer-range" width="24" height="24" viewBox="0 0 24 24" style="fill: rgba(0, 0, 0, 1);transform: msFilter"><path d="M12.25 2c-5.514 0-10 4.486-10 10s4.486 10 10 10 10-4.486 10-10-4.486-10-10-10zM18 13h-6.75V6h2v5H18v2z"></path></svg>
+      <input type="range" id="range-faster" name="volume" min="100" max="1800">
+    </div>
+
+  </div>
+  <!-- tăng giảm nhanh châm của chương trình -->
+
+  <!-- comment các kết quả chạy -->
+  <div id="comment-father">
+    <div id="comment">
+      <h2>Comment và giải thích</h2>
+    </div>
+  </div>
+  <!-- comment các kết quả chạy -->
+
+  <!-- Phần chân trang. trên mạng -->
+
+  <footer>
+    <div class="container">
+      <!--Bắt Đầu Nội Dung Giới Thiệu-->
+      <div class="noi-dung about">
+        <h2>Ghi Chú</h2>
+        <p>
+          - Sinh Viên: Phạm Tiến Thành Công, Lớp CNTT4, khóa K14, Trường Đại Học Phenikaa <br>
+          - Học phần: Cấu trúc dữ liệu và thuật toán_1.1(13.14FS).1_LT <br>
+          - Bài tập lớn thuộc mục 8: Giải thuật sắp xếp Heapsort <br>
+          - Chương trình được trình bày và xây dựng bằng Web <br><br>
+          THANK YOU
+        </p>
+      </div>
+      <!--Kết Thúc Nội Dung Giới Thiệu-->
+      <!--Bắt Đầu Nội Dung Đường Dẫn-->
+      <div class="noi-dung links">
+        <h2>Về Tôi</h2>
+        <ul>
+          <li><a href="https://github.com/phamtienthanhcong"><i class='bx bxl-github'></i>Github</a></li>
+          <li><a href="https://www.facebook.com/phamtienthanhcong">Facebook</a></li>
+          <li><a href="https://www.facebook.com/daihocphenikaa">Trường Đại Học</a></li>
+          <li><a>Email: cong.pttc@gmail.com</a></li>
+        </ul>
+      </div>
+      <!--Kết Thúc Nội Dung Đường Dẫn-->
+      <!--Bắt Đâu Nội Dung Liên Hệ-->
+      <div class="noi-dung noi-dung links">
+        <h2>Nguồn học tập và thiết kế</h2>
+        <ul class="info">
+          <li><a
+              href="https://completejavascript.com/array-sorting-van-de-muon-thuo/#s%E1%BA%AFp-x%E1%BA%BFp-vun-%C4%91%E1%BB%91ng---heap-sort">Nguồn
+              về giải thuật</a></li>
+          <li><a href="https://www.w3schools.com/">Nguồn xây dựng trang web</a></li>
+          <li><a href="https://codepen.io/haycuoilennao19/pen/eYdpJWV">Nguồn footer (Chân trang)</a></li>
+          <li><a href="https://www.cssscript.com/connect-elements-directional-arrow/">Nguồn đồ họa mũi tên</a></li>
+        </ul>
+      </div>
+      <!--Kết Thúc Nội Dung Liên Hệ-->
+    </div>
+  </footer>
+
+
+</body>
+<script type="text/javascript" src="function/input.js"></script>
+<script type="text/javascript" src="function/heap_sort_function/heapsort.js"></script>
+<script type="text/javascript" src="function/heap_sort_function/heapsortdown.js"></script>
+<script type="text/javascript" src="function/function.js"></script>
+<script type="text/javascript" src="function/graphic.js"></script>
+<script type="text/javascript" src="outside/domarrow.js"></script>
+
+
+</html>
