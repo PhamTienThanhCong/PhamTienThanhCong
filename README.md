@@ -5,6 +5,8 @@
 - 👯 I'm looking to collaborate with other content creators
 - ⚡ Fun fact: I love share ... a lot
 
+<br />
+
 ### Spotify Playing 🎧
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31bvg3wront7ddphslihvvtofufa)
 
@@ -37,7 +39,10 @@
 [<img align="left" alt="cpp c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][c and cpp]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 
+<br />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!-- <img align="left" alt="nodejs" width="26px" src="" /> -->
