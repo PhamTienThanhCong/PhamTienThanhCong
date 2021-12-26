@@ -14,6 +14,10 @@
 
 <br />
 
+### Spotify Playing 🎧
+[<img src="https://pham-tien-thanh-cong.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31bvg3wront7ddphslihvvtofufa)
+ 
+<br />
 
 ### Languages and Tools:
 
