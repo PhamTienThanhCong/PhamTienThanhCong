@@ -52,7 +52,8 @@ HTML   8 mins          ███████████████████
 
 <br />
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamTienThanhCong)](https://github.com/phamtienthanhcong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamTienThanhCong&layout=compact)](https://github.com/phamtienthanhcong)
 
 
 [Phenikaa University]: https://phenikaa-uni.edu.vn/vi
