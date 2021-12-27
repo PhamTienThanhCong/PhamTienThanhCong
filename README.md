@@ -56,7 +56,7 @@ HTML   8 mins          ███████████████████
 
 ### GitHub Stats Card
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PhamTienThanhCong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=ocean_dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamTienThanhCong&layout=compact&theme=buefy&hide_border=true&theme=ocean_dark" /></a> |
+| <a href="https://github.com/phamtienthanhcong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PhamTienThanhCong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=ocean_dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/phamtienthanhcong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamTienThanhCong&layout=compact&theme=buefy&hide_border=true&theme=ocean_dark" /></a> |
 | ------------- | ------------- |
 
 [Phenikaa University]: https://phenikaa-uni.edu.vn/vi
