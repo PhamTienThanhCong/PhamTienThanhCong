@@ -61,7 +61,7 @@ HTML   8 mins          ███████████████████
 
 [Phenikaa University]: https://phenikaa-uni.edu.vn/vi
 [facebook]: https://www.facebook.com/phamtienthanhcong
-[linkedin]: linkedin.com/in/phamtienthanhcong 
+[linkedin]: https://linkedin.com/in/phamtienthanhcong
 [zalo]: https://zalo.me/0396396332
 [tiktok]: https://www.tiktok.com/@phamtienthanhcong
 [web]: https://github.com/PhamTienThanhCong/web_dev
