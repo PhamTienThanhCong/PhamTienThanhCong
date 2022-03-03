@@ -45,7 +45,7 @@
 ### Time code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
 
@@ -102,7 +102,7 @@ Visual Studio            59 mins             ███░░░░░░░░�
 ```
 
 
- Last Updated on 03/03/2022 03:00:18 UTC
+ Last Updated on 03/03/2022 03:44:31 UTC
 <!--END_SECTION:waka-->
 
 ---
