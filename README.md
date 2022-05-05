@@ -17,8 +17,6 @@
 ### Time code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2049%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
 
 **🐱 My GitHub Data** 
@@ -72,7 +70,7 @@ VS Code                  12 hrs 53 mins      ███████████�
 ```
 
 
- Last Updated on 05/05/2022 15:47:44 UTC
+ Last Updated on 05/05/2022 17:04:20 UTC
 <!--END_SECTION:waka-->
 
 ---
