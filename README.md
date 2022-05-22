@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,7 +73,7 @@ Eclipse                  2 hrs 14 mins       █░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/05/2022 23:44:34 UTC
+ Last Updated on 22/05/2022 02:28:11 UTC
 <!--END_SECTION:waka-->
 
 ---
