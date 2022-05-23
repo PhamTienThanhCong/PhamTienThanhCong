@@ -17,7 +17,7 @@
 ### Time code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
@@ -73,7 +73,7 @@ Eclipse                  3 hrs 33 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 23/05/2022 14:54:30 UTC
+ Last Updated on 23/05/2022 15:49:33 UTC
 <!--END_SECTION:waka-->
 
 ---
