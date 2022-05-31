@@ -17,7 +17,7 @@
 ### Time code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
@@ -73,7 +73,7 @@ Android Studio           39 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/05/2022 15:52:06 UTC
+ Last Updated on 31/05/2022 17:07:01 UTC
 <!--END_SECTION:waka-->
 
 ---
