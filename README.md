@@ -17,7 +17,7 @@
 ### Time code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -29,9 +29,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 21 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 2 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -73,7 +73,7 @@ Android Studio           1 hr 24 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 10/06/2022 23:42:48 UTC
+ Last Updated on 11/06/2022 02:34:54 UTC
 <!--END_SECTION:waka-->
 
 ---
