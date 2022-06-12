@@ -17,23 +17,22 @@
 ### Time code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-orange)
 
-**🐱 My GitHub Data** 
+**📊 Global GitHub data** 
 
-> 🏆 551 Contributions in the Year 2022
+```text
+🏆 551 contributions in 2022
+
+📦 685.6 kB used in GitHub's storage 
+
+📜 21 Public Repositories 
+
+🔑 2 Private Repositories  
  > 
-> 📦 685.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    195 commits    █████░░░░░░░░░░░░░░░░░░░░   23.33% 
@@ -42,7 +41,7 @@
 🌙 Night      57 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.82%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm most productive on Tuesday** 
 
 ```text
 Monday       100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
@@ -56,7 +55,7 @@ Sunday       88 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 💬 Programming Languages: 
@@ -73,7 +72,7 @@ Android Studio           2 hrs 50 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 12/06/2022 06:48:24 UTC
+ Last Updated on 12/06/2022 07:39:42 UTC
 <!--END_SECTION:waka-->
 
 ---
