@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,7 +73,7 @@ Android Studio           5 hrs 49 mins       ████░░░░░░░�
 ```
 
 
- Last Updated on 15/06/2022 15:47:13 UTC
+ Last Updated on 15/06/2022 16:58:20 UTC
 <!--END_SECTION:waka-->
 
 ---
