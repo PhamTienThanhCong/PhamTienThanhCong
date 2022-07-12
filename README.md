@@ -17,7 +17,7 @@
 ### Time code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
@@ -25,7 +25,7 @@
 
 > 🏆 586 Contributions in the Year 2022
  > 
-> 📦 882.9 kB Used in GitHub's Storage 
+> 📦 884.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,15 +60,19 @@ Sunday       93 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      23 mins             █████████░░░░░░░░░░░░░░░░   38.1% 
+SQL                      13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.47% 
+Blade Template           12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.21% 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.33% 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.32%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 2 mins         █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 12/07/2022 17:02:05 UTC
+ Last Updated on 12/07/2022 17:45:30 UTC
 <!--END_SECTION:waka-->
 
 ---
