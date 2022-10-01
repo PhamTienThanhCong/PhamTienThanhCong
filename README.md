@@ -16,21 +16,21 @@
 ### Time code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 726 Contributions in the Year 2022
+> 🏆 728 Contributions in the Year 2022
  > 
 > 📦 917.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 27 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 6 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -71,7 +71,7 @@ VS Code                  7 hrs 53 mins       ███████████�
 ```
 
 
- Last Updated on 30/09/2022 23:53:50 UTC
+ Last Updated on 01/10/2022 03:39:52 UTC
 <!--END_SECTION:waka-->
 
 ---
