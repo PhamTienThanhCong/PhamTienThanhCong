@@ -16,13 +16,13 @@
 ### Time code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-755%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-755%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 933 Contributions in the Year 2022
+> 🏆 932 Contributions in the Year 2022
  > 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
@@ -71,7 +71,7 @@ VS Code                  33 hrs 59 mins      ███████████�
 ```
 
 
- Last Updated on 24/11/2022 07:39:45 UTC
+ Last Updated on 24/11/2022 08:45:42 UTC
 <!--END_SECTION:waka-->
 
 ---
