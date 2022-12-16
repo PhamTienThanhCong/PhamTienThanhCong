@@ -16,7 +16,7 @@
 ### Time code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
@@ -71,7 +71,7 @@ VS Code                  8 hrs 33 mins       ███████████�
 ```
 
 
- Last Updated on 16/12/2022 16:47:46 UTC
+ Last Updated on 16/12/2022 17:39:45 UTC
 <!--END_SECTION:waka-->
 
 ---
