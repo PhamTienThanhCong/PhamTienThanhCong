@@ -16,7 +16,7 @@
 ### Time code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-955%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-955%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -28,9 +28,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 41 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -68,7 +68,7 @@ VS Code                  15 hrs 43 mins      ███████████�
 ```
 
 
- Last Updated on 27/03/2023 14:45:35 UTC
+ Last Updated on 27/03/2023 15:40:38 UTC
 <!--END_SECTION:waka-->
 
 ---
