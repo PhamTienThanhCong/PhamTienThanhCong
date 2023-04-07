@@ -2,6 +2,7 @@
 
 - My name: Phạm Tiến Thành Công
 - I'm studying at: [Phenikaa University]
+- [lam bai thi]
 
 
 ### Connect with me:
@@ -87,3 +88,4 @@ VS Code                  21 hrs 30 mins      ███████████�
 [min project]: https://github.com/PhamTienThanhCong/Project-Of-Web
 [c and cpp]: https://github.com/PhamTienThanhCong/Code_C_and_Cpro
 [python]: https://github.com/PhamTienThanhCong/Python_beginer
+[lam bai thi]: https://qldtbeta.phenikaa-uni.edu.vn/lambaithi/Dangnhap.aspx
