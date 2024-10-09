@@ -1,16 +1,7 @@
 ### Hi Friends
 
 - My name: Phạm Tiến Thành Công
-- I'm studying at: [Phenikaa University]
-
-
-### Connect with me:
-[<img align="left" alt="PhamTienThanhCong | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" />][facebook]
-[<img align="left" alt="PhamTienThanhCong | Zalo" width="22px" src="https://www.anphatpc.com.vn/template/anphat_2020v2/images/icon-zalo.jpg" />][zalo]
-[<img align="left" alt="PhamTienThanhCong | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
-
-<br />
-
+- I'm studied at: [Phenikaa University]
 ---
 
 ### Time code
